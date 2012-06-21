@@ -91,10 +91,12 @@
 
 ###アプリをインストールできない場合の対処
 
+しばらく待って、もう一度試してみて下さい。  
 1時間程待ってもアプリをインストールできない場合は開発者(開発者の連絡先)へご連絡ください。  
 
 ####クレジット
 
+[CCライセンス 表示-継承](http://creativecommons.org/licenses/by-sa/2.1/jp/)  
 原著作者 [yomoapp](https://twitter.com/yomoapp)  
 URL [YMTestFlightInfo](https://github.com/hayashi311/YMTestFlightInfo)  
 
