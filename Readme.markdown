@@ -18,13 +18,11 @@ Markdown形式とHTML形式がありますが、Markdownの方がオリジナル
 
 #ライセンス
 
-CCライセンス 表示-継承
-
-http://creativecommons.org/licenses/by-sa/2.1/jp/
+[CCライセンス 表示-継承](http://creativecommons.org/licenses/by-sa/2.1/jp/)
 
 原作者のクレジット（氏名、作品タイトルとURL）を表示し、改変した場合には元の作品と同じCCライセンス（このライセンス）で公開することを守れば、営利目的での二次利用も許可されるCCライセンス。
 
 #クレジット
 
-原著作者 (yomoapp)[https://twitter.com/yomoapp]  
-URL (https://github.com/hayashi311/YMTestFlightInfo)[https://github.com/hayashi311/YMTestFlightInfo] 
+原著作者 [yomoapp](https://twitter.com/yomoapp)  
+URL [YMTestFlightInfo](https://github.com/hayashi311/YMTestFlightInfo) 
