@@ -22,23 +22,23 @@
 このメールはiPhone、iPod touch、またはiPadで開いて下さい。  
 
 
-![](../../../raw/master/images/img01.png)  
+![](../../raw/master/images/img01.png)  
 **↑ ~@i.softbank.jpまたはPCのメールアドレスでメールを受け取った場合。**  
 
-![](../../../raw/master/images/img02.png)  
+![](../../raw/master/images/img02.png)  
 **↑ ~@softbank.ne.jpでメールを受け取った場合。**  
 
 メール中の**[招待受け取る]**リンクをタップします。  
 リンクをタップすると、登録画面に移動します。   
 
-![](../../../raw/master/images/img03.png)
+![](../../raw/master/images/img03.png)
 
 項目をこのように埋めて、**Sigin Up >>**ボタンをタップして下さい。  
 
 ここで登録した名前は、開発者が確認することができます。  
 必ずしも実名を入力する必要はありません。  
 
-![](../../../raw/master/images/img04.png)
+![](../../raw/master/images/img04.png)
 
 登録が完了すると、このように**Invitation Accepted!**と表示されます。  
 
@@ -53,19 +53,19 @@
 
 **端末識別番号を利用する方法は、いわゆる脱獄(jailbreak)とは違い、Apple公式の手順です。**
 
-![](../../../raw/master/images/img05.png)  
+![](../../raw/master/images/img05.png)  
 まず、**Go to your Dashboard >>**ボタンをタップして下さい。  
 
-![](../../../raw/master/images/img06.png)   
+![](../../raw/master/images/img06.png)   
 次に、**Register Device**ボタンをタップして、プロファイルをインストールします。  
 
-![](../../../raw/master/images/img06.png)  
-![](../../../raw/master/images/img07.png)  
-![](../../../raw/master/images/img08.png)
+![](../../raw/master/images/img06.png)  
+![](../../raw/master/images/img07.png)  
+![](../../raw/master/images/img08.png)
 
 完了を押すと、プロファイルのインストールは終了です。    
 
-![](../../../raw/master/images/img09.png)  
+![](../../raw/master/images/img09.png)  
 ホーム画面にTestFlightのアイコンが追加されています。  
 
 ここまでが、初回だけの作業になります。
@@ -86,7 +86,7 @@
 
 というタイトルのメールが届きます。  
 
-![](../../../raw/master/images/img10.png)  
+![](../../raw/master/images/img10.png)  
 メール中の**Install**ボタンをタップすると、インストールを開始します。  
 
 ###アプリをインストールできない場合の対処
