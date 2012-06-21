@@ -26,6 +26,5 @@ http://creativecommons.org/licenses/by-sa/2.1/jp/
 
 #クレジット
 
-原著作者 (yomoapp)[https://twitter.com/yomoapp]
-URL ()[]
-
+原著作者 (yomoapp)[https://twitter.com/yomoapp]  
+URL (https://github.com/hayashi311/YMTestFlightInfo)[https://github.com/hayashi311/YMTestFlightInfo] 
