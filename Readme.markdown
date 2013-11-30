@@ -14,7 +14,12 @@ TestFlightのテスター向けの解説を、アプリに組み込みたい場�
 適当に使って下さい。
 テキスト下部の(開発者の連絡先)を変更するのを忘れないで下さい。
 
-Markdown形式とHTML形式がありますが、Markdownの方がオリジナルです。
+Markdown形式とHTML形式がありますが、Markdownの方がオリジナルです。  
+markdown2htmlを実行するとMarkdownからhtmlファイルを書き出します。実行にはRuby環境とgemのkramdownのインストールが必要です。
+```
+$ gem install kramdown
+$ ./script/markdown2html
+```
 
 #ライセンス
 
